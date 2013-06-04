@@ -40,7 +40,7 @@
 /**Global樣式**/
 /*通用字型樣式*/
 .generic_body{
-  font-family:'ubuntu', '文泉驛正黑', 'WenQuanYi Zen Hei',  serif;
+  font-family:'ubuntu', '文泉驛微米黑', 'WenQuanYi Micro Hei',  serif;
 }
 /*通用表格樣式*/
 .generic_table,.generic_table td,.generic_table th{
@@ -49,8 +49,8 @@
   border-width:2px;
   border-collapse:collapse;
 }
-/*通用警告文字樣式*/
-.generic_warning_text{
+/*通用重要紅文字樣式*/
+.generic_important_red{
   color:red;
   font-weight:bold;
 }
